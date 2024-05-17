@@ -1,0 +1,3 @@
+https://codeforces.com/contest/1969/problem/C    -->good one for dp states , as i previously thought of only dp(i) in terms of dp(i-1)
+https://codeforces.com/contest/940/problem/E?mobile=false  --> good dp greedy , where u need to see that n/c min leements were taken , so observation is needed
+that only size of 1 ans c are taken into consideration 
