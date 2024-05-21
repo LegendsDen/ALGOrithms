@@ -4,3 +4,19 @@ that only size of 1 ans c are taken into consideration
 
 https://codeforces.com/contest/1509/problem/C  --> greedy way here dp , 
 first can think of greedy way how answer can come in genral in dp  ,then apply some dp methods for time complexity 
+  
+https://codeforces.com/problemset/problem/474/D--> nice way for total permuatation  (with 0 in group of k) can exist only 
+
+https://codeforces.com/contest/1974/problem/E    --> good one on knapsack 2 dp , also 
+
+--> dp correctness can be checked like this 
+
+check if it correct for i=1 
+then also at 2 
+so by induction , true for all 
+here , total cost is check for a single day ---> 
+now if it is also checked true for 2nd day  ---> then by induction true for all 
+
+
+https://atcoder.jp/contests/dp/tasks/dp_m    -> dp prefix sum required  (candies)
+https://atcoder.jp/contests/dp/tasks/dp_k    ---> dp games (stone)
