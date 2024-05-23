@@ -1,3 +1,9 @@
 https://codeforces.com/contest/1288/problem/C   --> invovling  distrubting n identical star in k boxes 
  that is x1+x2+....xn=m----------> xi>=0
- 
+https://codeforces.com/contest/57/problem/C  -> above logic  only 
+pay attention to 
+
+Array following condiation 1 or condition 2 =(1+2)-(intersection of both )
+
+
+

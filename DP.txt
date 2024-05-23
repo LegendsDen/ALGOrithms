@@ -20,3 +20,21 @@ now if it is also checked true for 2nd day  ---> then by induction true for all
 
 https://atcoder.jp/contests/dp/tasks/dp_m    -> dp prefix sum required  (candies)
 https://atcoder.jp/contests/dp/tasks/dp_k    ---> dp games (stone)
+
+https://codeforces.com/contest/1081/problem/C   --->combinatroics dp
+Soln---->
+ — f(i, j) is the number of ways of colouring i bricks with j bricks having a different colour to it's neighbour.
+
+There are two options for the i-th brick.
+
+Case 1 — It is the same colour as the (i — 1)th brick. In that case, f(i, j) += f(i — 1, j)
+
+Case 2 — It is a different colour. Then the number of bricks with different colour increases from j to j + 1. And there are (m — 1) ways to colour this brick.
+
+So, f(i, j + 1) += (m — 1)f(i — 1, j)
+
+
+Combinational---->
+Also, there is a possibly easier solution. We can first choose the bricks of a different color from its left and then 
+choose a different color to color them, so the answer can be found to be simply . (n-1 Ck) *m*(m-1)^k
+

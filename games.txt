@@ -1,0 +1,2 @@
+https://codeforces.com/contest/1383/problem/B   ---> nice dp games with bits involving xor 
+so we usually start look from most significant bit 
