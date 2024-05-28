@@ -1,1 +1,8 @@
-https://codeforces.com/contest/1974/problem/G     
+https://codeforces.com/contest/1974/problem/G     ----> nice way where we are 
+storing following condition in set , then at each i , we pop out max to compare with a[i]
+
+https://codeforces.com/contest/1203/problem/F1    --> {a,b}   here i needed ki , jitna jayda bada a ho ske , as well simultaneoulsy 
+i wanted ki b bhi jitna jyda max ho ske ,    so i did , if(a.first==b.first) return a.second>b.second  
+                                                        else return a.first > b.first
+But , i  actually have no order prefernce , i just want as max as possible for both , 
+so i take max(a+b)  ie. return a.first+a.second>b.first+b.second

@@ -1,0 +1,6 @@
+https://codeforces.com/contest/1288/problem/D    -> 
+main essence of binay search  is that , we take on 1 value and on answer of yes or no , we can prune one half 
+either if [no is the answer , all a grater will be no no , no etc     or if yes , then all before yes yes]
+
+
+https://codeforces.com/problemset/problem/1679/D    --> toposort with binary search
