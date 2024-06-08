@@ -6,3 +6,9 @@ i wanted ki b bhi jitna jyda max ho ske ,    so i did , if(a.first==b.first) ret
                                                         else return a.first > b.first
 But , i  actually have no order prefernce , i just want as max as possible for both , 
 so i take max(a+b)  ie. return a.first+a.second>b.first+b.second
+
+https://codeforces.com/contest/1623/problem/C    --->
+nice greedy here from i we are giving to i-1 and i-2    
+so converetd it to form from back , so now giving to i+1,i+2   with one optimization that total giving should be <= h[i]  in original 
+as we are giving  from i before we reached i , and after that we are not giving from i (as giving to left side only )
+
