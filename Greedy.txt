@@ -12,3 +12,6 @@ nice greedy here from i we are giving to i-1 and i-2
 so converetd it to form from back , so now giving to i+1,i+2   with one optimization that total giving should be <= h[i]  in original 
 as we are giving  from i before we reached i , and after that we are not giving from i (as giving to left side only )
 
+https://codeforces.com/problemset/problem/1175/D   --> here i needed some function max val ,  so 
+i played on that functionn ,expanding its term , i got some simpler meaning of what i needed, whih was 
+k-1 suffix sum , with sum of all those maximum 

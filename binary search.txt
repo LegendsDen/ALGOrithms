@@ -4,3 +4,5 @@ either if [no is the answer , all a grater will be no no , no etc     or if yes 
 
 
 https://codeforces.com/problemset/problem/1679/D    --> toposort with binary search
+
+https://codeforces.com/problemset/problem/1370/D
