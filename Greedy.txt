@@ -15,3 +15,6 @@ as we are giving  from i before we reached i , and after that we are not giving 
 https://codeforces.com/problemset/problem/1175/D   --> here i needed some function max val ,  so 
 i played on that functionn ,expanding its term , i got some simpler meaning of what i needed, whih was 
 k-1 suffix sum , with sum of all those maximum 
+
+
+https://codeforces.com/contest/1821/problem/D-----> nice greedy , this can br applied or thought in some 
