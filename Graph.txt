@@ -1,1 +1,1 @@
-https://codeforces.com/contest/1975/problem/D   ---> greddy tree property ,to visit each node min time is  2* no of edges - max height in a rooted tree
+https://codeforces.com/contest/1975/problem/D   ---> greedy tree property ,to visit each node min time is  2* no of edges - max height in a rooted tree

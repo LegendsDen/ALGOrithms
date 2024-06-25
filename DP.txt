@@ -5,7 +5,6 @@ that only size of 1 ans c are taken into consideration
 https://codeforces.com/contest/1509/problem/C  --> greedy way here dp , 
 first can think of greedy way how answer can come in genral in dp  ,then apply some dp methods for time complexity 
   
-https://codeforces.com/problemset/problem/474/D--> nice way for total permuatation  (with 0 in group of k) can exist only 
 
 https://codeforces.com/contest/1974/problem/E    --> good one on knapsack 2 dp , also 
 
@@ -39,7 +38,7 @@ Also, there is a possibly easier solution. We can first choose the bricks of a d
 choose a different color to color them, so the answer can be found to be simply . (n-1 Ck) *m*(m-1)^k
 
 https://codeforces.com/contest/1359/problem/D --> max subbaray sum nice extension where 
-ans=max(ans,curr-best) ---> prefix sum from [1...i] and best in min prefix sum from [1...j] where j<i
+ans=max(ans,curr-best) ---> prefix sum from [1...i] and best is min prefix sum from [1...j] where j<i
 
 https://codeforces.com/problemset/problem/1155/D   -> similar extension to max subarray sum 
 
