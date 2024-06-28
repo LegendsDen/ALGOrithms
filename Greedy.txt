@@ -18,3 +18,4 @@ k-1 suffix sum , with sum of all those maximum
 
 
 https://codeforces.com/contest/1821/problem/D-----> nice greedy , this can br applied or thought in some 
+https://codeforces.com/contest/1969/problem/D----> free k objects starting from i -----> end

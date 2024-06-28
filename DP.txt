@@ -42,4 +42,6 @@ ans=max(ans,curr-best) ---> prefix sum from [1...i] and best is min prefix sum f
 
 https://codeforces.com/problemset/problem/1155/D   -> similar extension to max subarray sum 
 
+https://codeforces.com/problemset/problem/1381/B  ---> nice way of understanding question and transforming it to a ---->dp 
 
+https://codeforces.com/contest/1989/problem/D   ---> nice dp (had no idea can be transformed to dp )
