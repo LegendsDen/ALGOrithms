@@ -45,3 +45,5 @@ https://codeforces.com/problemset/problem/1155/D   -> similar extension to max s
 https://codeforces.com/problemset/problem/1381/B  ---> nice way of understanding question and transforming it to a ---->dp 
 
 https://codeforces.com/contest/1989/problem/D   ---> nice dp (had no idea can be transformed to dp )
+https://codeforces.com/problemset/problem/1957/D  ---> nice way when we want no of way such that no of subsegments, from (1 to i-1)to i is xor =1;
+like can be from 3 to 5 xor=1, 2 to 5 and 5 to 5  
