@@ -1,1 +1,2 @@
-https://codeforces.com/problemset/problem/1155/D
+https://codeforces.com/contest/220/problem/E
+------> no of element greater than a[i] for j <i  .. inversion count 
