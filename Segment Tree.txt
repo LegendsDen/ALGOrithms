@@ -3,3 +3,6 @@ https://codeforces.com/contest/220/problem/E
 https://codeforces.com/contest/220/problem/E
 https://codeforces.com/contest/558/problem/E
 nice one , thibk of simple update and ans, then optimize for segmnet tree 
+
+https://codeforces.com/contest/2033/problem/G tree segment trees for  path
+https://codeforces.com/problemset/problem/1904/E Tree Segment trees for subtree 
