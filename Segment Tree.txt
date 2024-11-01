@@ -5,4 +5,7 @@ https://codeforces.com/contest/558/problem/E
 nice one , thibk of simple update and ans, then optimize for segmnet tree 
 
 https://codeforces.com/contest/2033/problem/G tree segment trees for  path
-https://codeforces.com/problemset/problem/1904/E Tree Segment trees for subtree 
+https://codeforces.com/problemset/problem/1904/E Tree Segment trees for subtree using REROOT techinque
+
+https://codeforces.com/contest/474/problem/E   --> each node of segment tree store a pair , of valur and index , 
+So , on ans, for val=4 , we store {4,index of which i had 3 from segment tree}    and similarly track all 
