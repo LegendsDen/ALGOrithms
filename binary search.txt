@@ -6,3 +6,6 @@ either if [no is the answer , all a grater will be no no , no etc     or if yes 
 https://codeforces.com/problemset/problem/1679/D    --> toposort with binary search
 
 https://codeforces.com/problemset/problem/1370/D
+
+https://codeforces.com/contest/1996/problem/F   ----> cant think of anything , so 
+total op such that all are >=x 
