@@ -1,1 +1,7 @@
 https://codeforces.com/problemset/problem/1156/D  was dp problem ---->but can be solved using grouping with DSU 
+
+small to large merge 
+https://codeforces.com/contest/1380/problem/E   in normal array 
+
+https://codeforces.com/contest/1009/problem/F  in tree
+ https://codeforces.com/contest/2063/problem/E
