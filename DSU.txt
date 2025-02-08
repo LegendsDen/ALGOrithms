@@ -5,4 +5,6 @@ https://codeforces.com/contest/1380/problem/E   in normal array
 
 https://codeforces.com/contest/1009/problem/F  in tree
  https://codeforces.com/contest/2063/problem/E
-  https://codeforces.com/contest/570/problem/D   offline query and small to large merge depth wise 
+  https://codeforces.com/contest/570/problem/D   offline query and small to large merge depth wise
+
+  https://codeforces.com/contest/1851/problem/G   --->good DSU 
