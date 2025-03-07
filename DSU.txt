@@ -8,3 +8,5 @@ https://codeforces.com/contest/1009/problem/F  in tree
   https://codeforces.com/contest/570/problem/D   offline query and small to large merge depth wise
 
   https://codeforces.com/contest/1851/problem/G   --->good DSU 
+
+https://codeforces.com/problemset/problem/915/F   ---->sort and process and join 

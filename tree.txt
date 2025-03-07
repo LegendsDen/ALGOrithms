@@ -1,0 +1,1 @@
+https://codeforces.com/gym/590997/problem/L   -----> on subtree which can be linearized with Euler Tree , and then solve to find max occurenece of a number in a range L to R in a array 
