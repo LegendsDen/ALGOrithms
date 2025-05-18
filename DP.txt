@@ -49,3 +49,5 @@ https://codeforces.com/problemset/problem/1957/D  ---> nice way when we want no 
 like can be from 3 to 5 xor=1, 2 to 5 and 5 to 5  
 
 https://codeforces.com/contest/1987/problem/D   
+
+https://codeforces.com/contest/2096/problem/C 
