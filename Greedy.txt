@@ -29,4 +29,4 @@ Median techinque with prefix sum of 1 and -1
 https://codeforces.com/contest/2126/problem/G1
 https://codeforces.com/contest/1486/problem/D
 
-https://codeforces.com/blog/entry/68753
+https://codeforces.com/blog/entry/68753 Median of medians
