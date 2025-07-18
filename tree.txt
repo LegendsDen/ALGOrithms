@@ -31,3 +31,4 @@ bool dfs(ll vertex,ll par,vi &val){
 }
 
 
+https://codeforces.com/contest/2126/problem/F   ----->heavy light sqrt decompositon (Dominator)
