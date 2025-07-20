@@ -51,3 +51,5 @@ like can be from 3 to 5 xor=1, 2 to 5 and 5 to 5
 https://codeforces.com/contest/1987/problem/D   
 
 https://codeforces.com/contest/2096/problem/C 
+
+a very good problem , to frame problem and then reconvert it ---->https://codeforces.com/contest/2119/problem/D
