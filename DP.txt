@@ -54,3 +54,7 @@ https://codeforces.com/contest/2096/problem/C
 
 a very good problem , to frame problem and then reconvert it ---->https://codeforces.com/contest/2119/problem/D
 https://www.youtube.com/live/O0qbgoDUj0g?t=1962s
+
+
+
+https://codeforces.com/contest/26/problem/D  ----> probab and require catalan number 
